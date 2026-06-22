@@ -1,0 +1,5 @@
+yfinance
+feedparser
+requests
+beautifulsoup4
+schedule
